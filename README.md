@@ -1,0 +1,2 @@
+# Project_GX5Y1V
+Projektmunka_Tetovalas_gyogyulási_idozito
