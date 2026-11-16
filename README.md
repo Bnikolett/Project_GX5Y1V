@@ -1,7 +1,7 @@
 # Project_GX5Y1V
 Projektmunka_Tetovalas_gyogyulási_idozito
 
-# Tetoválás gyógyulási időzítő
+# Project címe Tetoválás gyógyulási időzítő
 
 **Készítette:** Ballása Nikolett  
 **Neptunkód:** GX5Y1V
